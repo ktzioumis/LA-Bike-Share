@@ -64,7 +64,7 @@ There is some missing data for latitudes and longitudes but since these are link
 
 ## Mapping the Network
 
-<img src = 'network_map.jpg'>
+<img src = 'network_map.JPG'>
 
 Downtown LA is home to a dense network of bicycle stations, they are conveniently close-by for anyone in need of a ride or looking to drop-off at their destination. There are 2 additional stations outside the downtown area at Culver City and Venice by the beach. These stations only have rides attributed to them at the very end of our dataset's time period and appear to represent new additions to the network.
 
