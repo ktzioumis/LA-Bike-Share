@@ -110,7 +110,7 @@ There are multiple types of network membership and each are bound to attract rid
 
 Categorical features are one-hot encoded, all features are scaled and dimensionality is reduced to 20 with 98% of explained variance retained
 
-<img src = 'pca.png' height =1000 width=500>
+<img src = 'pca.png' height =250 width=500>
 
 3 model types are considered  - Random Forest Classifier, ADABoost Classifier and XGBoost Classifier. All are tested on 75% of the data as a training set with hyperparameters tuned using Grid Search with 3-fold cross validation.
 
